@@ -1,5 +1,9 @@
 # NLOkit
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NLOkit/.github/main/assets/nlokit-logo.png" alt="NLOkit logo: frequency doubling in a crystal" width="300">
+</p>
+
 **First-principles optical response calculations and computational materials research**
 
 NLOkit is a research software organization focused on developing computational tools for studying the optical properties of crystalline materials, with particular emphasis on nonlinear optical responses and materials design.
