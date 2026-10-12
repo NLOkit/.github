@@ -1,7 +1,7 @@
 # NLOkit
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NLOkit/.github/main/assets/nlokit-logo.png" alt="NLOkit logo: frequency doubling in a crystal" width="300">
+  <img src="https://raw.githubusercontent.com/NLOkit/.github/main/assets/nlokit-logo.svg" alt="NLOkit logo: frequency doubling in a crystal" width="300">
 </p>
 
 **First-principles optical response calculations and computational materials research**
