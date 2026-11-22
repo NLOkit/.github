@@ -22,6 +22,7 @@ Our software connects electronic-structure calculations with optical response th
 | Project | Description |
 | --- | --- |
 | [nlokit](https://github.com/NLOkit/nlokit) | Python tools for linear and nonlinear optical responses with CASTEP, VASP, and GPAW interfaces. |
+| [AIMOPT](https://github.com/NLOkit/aimopt) | Atom-in-molecule optical properties with AIM partitioning and atom- and group-resolved optical response analysis. |
 | [nlokit-fortran](https://github.com/NLOkit/nlokit-fortran) | Reusable Fortran kernels for SHG calculations. |
 | [nlokit_tutorials](https://github.com/NLOkit/nlokit_tutorials) | Tutorials and examples for optical property calculations. |
 | [for-students](https://github.com/NLOkit/for-students) | Training resources covering Python, Git, Linux, HPC, and VASP. |
