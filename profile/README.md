@@ -25,6 +25,7 @@ Our software connects electronic-structure calculations with optical response th
 | [AIMOPT](https://github.com/NLOkit/aimopt) | Atom-in-molecule optical properties with AIM partitioning and atom- and group-resolved optical response analysis. |
 | [nlokit-fortran](https://github.com/NLOkit/nlokit-fortran) | Reusable Fortran kernels for SHG calculations. |
 | [nlokit_tutorials](https://github.com/NLOkit/nlokit_tutorials) | Tutorials and examples for optical property calculations. |
+| [aimopt_tutorials](https://github.com/NLOkit/aimopt_tutorials) | Tutorials for atom-pair linear susceptibility and atom- and group-resolved SHG with AIMOPT and GPAW. |
 | [for-students](https://github.com/NLOkit/for-students) | Training resources covering Python, Git, Linux, HPC, and VASP. |
 
 **Repository availability:** Some projects are currently private during development. Public source code, documentation, and releases will be linked here as they become available.
